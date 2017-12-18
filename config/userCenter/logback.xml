@@ -1,0 +1,2 @@
+#kafka
+<producerConfig>bootstrap.servers=ip:port</producerConfig>

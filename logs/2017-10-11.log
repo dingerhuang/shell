@@ -1,0 +1,15 @@
+2017-10-11 18:06:21	Begin backup package!
+2017-10-11 18:06:21	Begin package!
+2017-10-11 18:06:29	Replace jdbc.drive= sucess!
+2017-10-11 18:06:29	Replace jdbc.url= sucess!
+2017-10-11 18:06:29	Replace jdbc.username= sucess!
+2017-10-11 18:06:29	Replace jdbc.password= sucess!
+2017-10-11 18:06:29	Replace redis.node1.host= sucess!
+2017-10-11 18:06:29	Replace redis.node1.port= sucess!
+2017-10-11 18:06:29	Replace redis.node2.host= sucess!
+2017-10-11 18:06:29	Replace redis.node2.port= sucess!
+2017-10-11 18:06:29	Replace redis.node3.host= sucess!
+2017-10-11 18:06:29	Replace redis.node3.port= sucess!
+2017-10-11 18:06:29	Replace <producerConfig sucess!
+2017-10-11 18:06:29	Begin install!
+2017-10-11 18:06:29	Begin stop peoject!
